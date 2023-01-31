@@ -1,5 +1,5 @@
 # FivemDiscordPermissions
-a fivem resource that allows server to use multiple discords as permission sources
+A fivem resource that allows servers to use multiple discords as permission sources
 
 ## Features
 - give players ace permissions based on what roles they have in a discord
@@ -44,7 +44,7 @@ add_ace resource.FivemDiscordPermissions command.remove_principal allow
 - to get the guild ID of a discord server right click on the server icon and click copy ID at the bottom
 - to get the role ID of a discord role open the server setting -> click on roles -> right click on the role -> click copy ID
 
-- an example of a completed permission config should look something like this
+- an example of a completed permission.js file should look something like this
 ```
 const permissions = {
     // ["GUILD_ONE_ID_HERE"]: {
