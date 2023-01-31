@@ -21,7 +21,7 @@ dm me on discord (DaPickle#8141)
 
 - make sure that discord bot is in every discord that you want to have permissions for
 - drag the FivemDiscordPermissions-main into the `resources` folder `or a subfolder` of the resource folder
-- change the file name to just `FivemDiscordPermissions`
+- change the file name to `FivemDiscordPermissions`
 - add the following to your server.cfg
 ```
 start FivemDiscordPermissions
