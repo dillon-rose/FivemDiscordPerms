@@ -4,6 +4,8 @@ A fivem resource that allows servers to use multiple discords as permission sour
 ## Features
 - give players ace permissions based on what roles they have in a discord
 - use multiple discord servers to give permissions
+- updateperms command that updates an in game users permissions. 
+Useful if a user received a new role while in game and doesn’t want to relog.
 
 ## Support
 dm me on discord (DaPickle#8141)
