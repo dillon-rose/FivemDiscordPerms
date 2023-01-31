@@ -20,7 +20,8 @@ dm me on discord (DaPickle#8141)
     - under step 9 for simplicity sake you can just give the bot the administrator permission
 
 - make sure that discord bot is in every discord that you want to have permissions for
-- drag the FivemDiscordPermissions into the `resources` folder `or a subfolder` of the resource folder
+- drag the FivemDiscordPermissions-main into the `resources` folder `or a subfolder` of the resource folder
+- change the file name to just `FivemDiscordPermissions`
 - add the following to your server.cfg
 ```
 start FivemDiscordPermissions
